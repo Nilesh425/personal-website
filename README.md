@@ -67,7 +67,7 @@ Don't worry about the "No GitHub API authentication could be found" message. [AP
 
 When you host your personal website's code on GitHub, you get the support of free hosting through GitHub Pages.
 
-**The fastest approach** is to rename your repository `username.github.io`, where `username` is your GitHub username (or organization name). Then, the next time you push any changes to your repository's `master` branch, they'll be accessible on the web at your `username.github.io` address.
+**The Fastest Approach** is to rename your repository `username.github.io`, where `username` is your GitHub username (or organization name). Then, the next time you push any changes to your repository's `master` branch, they'll be accessible on the web at your `username.github.io` address.
 
 **If you want to use a custom domain**, you'll want to add it to your repository's "Custom domain" settings on github.com. And then register and/or [configure your domain with a DNS provider](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
 
@@ -75,7 +75,7 @@ When you host your personal website's code on GitHub, you get the support of fre
 
 It's your website, and you control the source code. So you can customize everything, if you like. But we've provided a handful of quick customizations for you to consider as you get your website off the ground.
 
-### Quick configuration changes
+### Quick Configuration Changes
 
 Most customizations can be done in a matter of seconds, by revising your repository's `_config.yml` file. Just remember to restart your local server each time you save new changes so your Jekyll-powered website rebuilds correctly:
 
@@ -110,7 +110,7 @@ Your website comes pre-configured with three topics (e.g. "Web design" and "Sass
 - `web_url`: The web address you'd like to your topic to link to (e.g. `https://github.com/topics/sass`).
 - `image_url`: The web address of an (ideally square) image that you'd like to appear with your topic.
 
-#### Social media
+#### Social Media
 
 Your website supports linking and sharing to social media services you're using, including Behance, Dribbble, Facebook, LinkedIn, Medium, Stack Overflow, Twitter, and YouTube. To identify the services you use:
 
